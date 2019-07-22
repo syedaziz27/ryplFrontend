@@ -28,7 +28,7 @@ Video thread page:
 
 Upload your own videos:
 
-![Upload](./src/images/upload)
+![Upload](./src/images/upload.png)
 
 ## Start Rypling!!!
 
