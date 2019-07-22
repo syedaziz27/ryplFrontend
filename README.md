@@ -14,13 +14,21 @@ Axios
 
 ## Screenshots:
 
+Home:
+
+[!Search](./images/search.png)
+
 Sign up:
 
-Search by category:
+[!SignUp](./images/signup.png)
 
 Video thread page:
 
+[!Thread](./images/thread.png)
+
 Upload your own videos:
+
+[!Upload](./images/upload)
 
 ## Start Rypling!!!
 
