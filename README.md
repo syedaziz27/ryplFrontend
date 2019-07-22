@@ -16,19 +16,19 @@ Axios
 
 Home:
 
-[!Search](./images/search.png)
+![Search](./images/search.png)
 
 Sign up:
 
-[!SignUp](./images/signup.png)
+![SignUp](./images/signup.png)
 
 Video thread page:
 
-[!Thread](./images/thread.png)
+![Thread](./images/thread.png)
 
 Upload your own videos:
 
-[!Upload](./images/upload)
+![Upload](./images/upload)
 
 ## Start Rypling!!!
 
